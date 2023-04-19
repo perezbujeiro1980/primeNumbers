@@ -1,0 +1,6 @@
+C:\Users\pc\AppData\Local\Temporary Projects\numerosPrimos\bin\Debug\numerosPrimos.exe
+C:\Users\pc\AppData\Local\Temporary Projects\numerosPrimos\bin\Debug\numerosPrimos.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\numerosPrimos\obj\x86\Debug\numerosPrimos.exe
+C:\Users\pc\AppData\Local\Temporary Projects\numerosPrimos\obj\x86\Debug\numerosPrimos.pdb
+C:\proyectos\C#\numerosPrimos\numerosPrimos\obj\x86\Debug\numerosPrimos.exe
+C:\proyectos\C#\numerosPrimos\numerosPrimos\obj\x86\Debug\numerosPrimos.pdb
